@@ -1,0 +1,13 @@
+.Container {
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+    display: inline;
+}
+
+.logout_button {
+    padding: 7px;
+    font-size: 15px;
+    margin-right: 100%;
+    width: 70px;
+}

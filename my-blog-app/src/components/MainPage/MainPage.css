@@ -1,0 +1,14 @@
+a {
+    cursor: pointer;
+    background-color: rgb(110, 54, 54);
+    padding: 7px;
+    transition: background-color 500ms;
+}
+
+a:hover {
+    background-color: brown;
+}
+
+h5 {
+    margin-top: 30px;
+}

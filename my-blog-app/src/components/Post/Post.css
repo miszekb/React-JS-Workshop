@@ -1,0 +1,39 @@
+.Post {
+    background-color: #7D322E;
+    padding: 20px;
+    margin: 50px;
+    transition: background-color 500ms;
+}
+
+.delete_button {
+    font-size: 16px;
+    display: flex;
+    margin-top: 10px;
+    background-color: rgb(97, 32, 29);
+    transition: background-color 500ms;
+    margin-left: 92%;
+    margin-right: 10px;
+    width: 32px;
+    padding: 10px;
+    text-align: center;
+}
+
+.delete_button:hover {
+    background-color: rgb(180, 107, 103);
+
+}
+
+.PostTitle {
+    text-align: left;
+    font-size: 30px;
+}
+
+.PostContent {
+    text-align: left;
+    font-size: 20px;
+}
+
+.Post:hover {
+    cursor: pointer;
+    background-color: rgb(172, 81, 78);
+}
