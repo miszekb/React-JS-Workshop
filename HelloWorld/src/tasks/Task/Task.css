@@ -1,0 +1,11 @@
+.Task {
+    width: 100%;
+    margin: auto;
+    box-shadow: 0 2px 3px #ffffff;
+    padding: 5px;
+    text-align: center;
+    align-content: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+}

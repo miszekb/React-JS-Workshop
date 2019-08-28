@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.App {
+  background-color: #20b3a2;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  width: 50%;
+  margin-top:20px;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 15px;
+  transition: margin 500ms;
+}
+
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #0d3b36;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 11px;
+  border-radius: 15px;
+}
+
+input {
+  font-size: 20px;
+  width: 60%;
+  padding: 5px;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+p:hover {
+  background-color: #2f746b;
+}
+
+button {
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: #2e878d;
+  color: white;
+  border-style: none;
+}
+
+button:hover {
+  cursor: pointer; 
+  background-color: hsl(180, 62%, 19%);
+}
+
+.App:hover {
+  width: 100%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
