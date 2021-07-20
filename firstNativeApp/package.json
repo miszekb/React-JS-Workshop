@@ -12,7 +12,7 @@
     "firebase": "^6.3.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
-    "react-native": "^0.60.4",
+    "react-native": "^0.62.3",
     "react-native-device-info": "^2.3.0",
     "react-native-fade": "^1.0.3",
     "react-native-geolocation-service": "^3.0.0",
