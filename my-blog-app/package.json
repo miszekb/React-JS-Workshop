@@ -15,7 +15,7 @@
     "react-apollo": "^2.1.11",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^6.4.0",
     "shortid": "^2.2.14",
     "tachyons": "^4.11.1"
